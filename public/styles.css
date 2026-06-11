@@ -1,0 +1,20 @@
+#orange {
+    position: relative;
+    height: 200px;
+    width: 900px;
+    background-color: orange;
+}
+
+#ashok-chakra {
+    position: relative;
+    height: 225px;
+    width: 900px;
+    text-align: center;
+}
+
+#green {
+    position: relative;
+    background-color: green;
+    height: 200px;
+    width: 900px;
+}
